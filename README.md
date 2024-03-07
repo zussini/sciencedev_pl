@@ -5,3 +5,8 @@
 
 ###### In long term it could serve as a source of ideas for current and future governments and tech related companies to look for inspiration in  future reforms.
 
+## Main targets:
+###### - serve as a source of ideas in context of development of science
+
+## Architecture.
+###### I would like it to work as multiple layers. They would work hierarchically, so the lower levels would provide information and basis for next ones. First would be storytelling, so I would like to have short story, about some idea how things work elsewhere or more creatively how it would work here basing on a short story. Second would be ideas brought form previous layer. Next layer (third) would be finding of solutions how to bring them to life in our scenario (conditions). (...).
